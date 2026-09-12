@@ -33,11 +33,7 @@ To install the hack GUI, use 1 of these methods:
 5. Click save and click the bookmark on page.
   
 - Method 2 (Hackcord already Installed):
-1. Download `Chatcord` and open it in a Text/HTML editor.
-2. Import `Chatcord` and at the very bottom, bellow the final `</script>` code, input this code;
-```<script></script>```
-3. in between those 2 tags (`>(here)</`), put in the code from either of the 2 files of the GUI shown in method 1.
-4. Run it in the HTML Editor or download it, then run it as a file. 
+1. Download `Hack-GUI-Chatcord.html` and put it into an HTML editor or run it as a file. 
   
 ## Credits 
 2pro12342 | Github
